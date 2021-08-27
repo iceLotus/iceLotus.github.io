@@ -1,3 +1,2 @@
-## ice-Lotus的博客
-
-#### Hello World
+# ice-Lotus的博客
+## Hello World
